@@ -2,7 +2,7 @@ venv/
 
 *.pth
 
-*.txt
+.txt
 
 dataset/
 
