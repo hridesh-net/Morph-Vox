@@ -55,14 +55,14 @@ pip install -r requirements.txt
 ```
 
 ### Installation
-	1.	Clone the Repository:
+1. Clone the Repository:
 
 ```bash
 git clone <your_repo_url>
 cd real_time_voice_conversion
 ```
 
-	2.	Set Up a Virtual Environment:
+2. Set Up a Virtual Environment:
 
 ```bash
 python -m venv venv
@@ -70,7 +70,7 @@ source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
 ```
 
-	3.	Install Dependencies:
+3. Install Dependencies:
 
 ```bash
 pip install -r requirements.txt
