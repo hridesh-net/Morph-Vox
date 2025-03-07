@@ -15,7 +15,7 @@ models/
 
 lightning_logs/
 
-*.json
+# *.json
 
 so-vits-svc-4.0/
 
